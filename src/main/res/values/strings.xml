@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">processBtnLib</string>
+
+
+    <string name="git_test">git_test</string>
+
 </resources>
